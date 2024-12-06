@@ -21,6 +21,10 @@ cd zzl/
 go build cmd/zzl/main.go
 ./main -h
 ```
+OR
+```bash
+go install github.com/DEMON1A/zzl/cmd/zzl@latest
+```
 
 ### Usage
 #### IP ranges
